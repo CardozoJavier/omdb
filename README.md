@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OMDB
 
 ## OMDB API
@@ -211,3 +212,6 @@ Si los componentes fueron codeados de forma ordenada, lo único que deberíamos 
 Mantener la sesión ante un refresh o cierre del browser. 
 
 Agregá la funcionalidad de poder logearte con `facebook` usando passport.
+=======
+# Proyecto OMDB
+>>>>>>> db370df75a6ea0e63502bb87007e2185715c9d33
